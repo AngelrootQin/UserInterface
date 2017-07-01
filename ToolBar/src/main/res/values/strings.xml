@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tab_one">DIGITAL</string>
+    <string name="tab_two">ANALOG</string>
+</resources>

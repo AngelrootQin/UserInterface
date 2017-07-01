@@ -1,0 +1,1 @@
+include ':ViewGroup', ':Actionbar', ':GIMP', ':LinearLayout', ':RelativeLayout', ':GridLayout', ':DrawerLayout', ':ToolDrawerLayout', ':SlindingPaneLayout', ':ViewPager', ':ToolBar', ':CardView'

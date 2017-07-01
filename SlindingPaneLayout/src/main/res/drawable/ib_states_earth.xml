@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--悬停-->
+    <item android:drawable="@mipmap/ib_earth_hover" android:state_hovered="true" />
+    <!--焦点-->
+    <item android:drawable="@mipmap/ib_earth_focus" android:state_focused="true" />
+    <!--按下-->
+    <item android:drawable="@mipmap/ib_earth_press" android:state_pressed="true" />
+    <!--普通-->
+    <item android:drawable="@mipmap/ib_earth_normal" />
+</selector>

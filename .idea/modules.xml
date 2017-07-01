@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Actionbar/Actionbar.iml" filepath="$PROJECT_DIR$/Actionbar/Actionbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CardView/CardView.iml" filepath="$PROJECT_DIR$/CardView/CardView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DrawerLayout/DrawerLayout.iml" filepath="$PROJECT_DIR$/DrawerLayout/DrawerLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GIMP/GIMP.iml" filepath="$PROJECT_DIR$/GIMP/GIMP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GridLayout/GridLayout.iml" filepath="$PROJECT_DIR$/GridLayout/GridLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearLayout/LinearLayout.iml" filepath="$PROJECT_DIR$/LinearLayout/LinearLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RelativeLayout/RelativeLayout.iml" filepath="$PROJECT_DIR$/RelativeLayout/RelativeLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlindingPaneLayout/SlindingPaneLayout.iml" filepath="$PROJECT_DIR$/SlindingPaneLayout/SlindingPaneLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToolBar/ToolBar.iml" filepath="$PROJECT_DIR$/ToolBar/ToolBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToolDrawerLayout/ToolDrawerLayout.iml" filepath="$PROJECT_DIR$/ToolDrawerLayout/ToolDrawerLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserInterface.iml" filepath="$PROJECT_DIR$/UserInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewGroup/ViewGroup.iml" filepath="$PROJECT_DIR$/ViewGroup/ViewGroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPager/ViewPager.iml" filepath="$PROJECT_DIR$/ViewPager/ViewPager.iml" />
+    </modules>
+  </component>
+</project>

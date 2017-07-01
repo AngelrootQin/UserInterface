@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Actionbar" />
+            <option value="$PROJECT_DIR$/CardView" />
+            <option value="$PROJECT_DIR$/DrawerLayout" />
+            <option value="$PROJECT_DIR$/GIMP" />
+            <option value="$PROJECT_DIR$/GridLayout" />
+            <option value="$PROJECT_DIR$/LinearLayout" />
+            <option value="$PROJECT_DIR$/RelativeLayout" />
+            <option value="$PROJECT_DIR$/SlindingPaneLayout" />
+            <option value="$PROJECT_DIR$/ToolBar" />
+            <option value="$PROJECT_DIR$/ToolDrawerLayout" />
+            <option value="$PROJECT_DIR$/ViewGroup" />
+            <option value="$PROJECT_DIR$/ViewPager" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

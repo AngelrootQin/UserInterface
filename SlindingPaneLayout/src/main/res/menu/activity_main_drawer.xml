@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_earth" 
+            android:title="Earth" />
+        <item android:id="@+id/nav_venus"
+            android:title="Venus" />
+        <item android:id="@+id/nav_jupiter"
+            android:title="Jupiter" />
+        <item android:id="@+id/nav_neptune" 
+            android:title="Neptune" />
+        <item android:id="@+id/nav_mars"
+            android:title="Mars" />
+    </group>
+</menu>
+
+

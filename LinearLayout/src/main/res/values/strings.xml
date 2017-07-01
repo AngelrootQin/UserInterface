@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UserInterface</string>
+    <string name="action_settings">Settings</string>
+    <string name="linear_layout">LinearLayout</string>
+    <string name="ib_earth">Earth Button</string>
+    <string name="ib_venus">Venus Button</string>
+    <string name="ib_jupiter">Jupiter Button</string>
+    <string name="planet_name_earth">Planet Name: Earth</string>
+    <string name="planet_name_venus">Planet Name: Venus</string>
+    <string name="planet_name_jupiter">Planet Name: Jupiter</string>
+    <string name="planet_mess_earth">Planet Mess: 5973 Yg</string>
+    <string name="planet_mess_venus">Planet Mess: 4870 Yg</string>
+    <string name="planet_mess_jupiter">Planet Mess: 1898000 Yg</string>
+    <string name="planet_grav_earth">Planet Gravity: 9.8 m/s</string>
+    <string name="planet_grav_venus">Planet Gravity: 8.9 m/s</string>
+    <string name="planet_grav_jupiter">Planet Gravity: 23.1 m/s</string>
+</resources>

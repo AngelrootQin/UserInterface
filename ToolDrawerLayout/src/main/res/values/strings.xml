@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">UserInterface</string>
+    <string name="action_settings">Settings</string>
+    <!--ImageButton名称-->
+    <string name="ib_earth">Earth Button</string>
+    <string name="ib_venus">Venus Button</string>
+    <string name="ib_jupiter">Jupiter Button</string>
+    <string name="ib_neptune">Neptune Button</string>
+    <!--星球信息之 earth-->
+    <string name="planet_name_earth">Planet Name: Earth</string>
+    <string name="planet_mess_earth">Planet Mess: 5973 Yg</string>
+    <string name="planet_grav_earth">Planet Gravity: 9.8 m/s</string>
+    <string name="planet_size_earth">Planet Diameter: 12,756 KM</string>
+    <!--星球信息之 venus-->
+    <string name="planet_name_venus">Planet Name: Venus</string>
+    <string name="planet_mess_venus">Planet Mess: 4870 Yg</string>
+    <string name="planet_grav_venus">Planet Gravity: 8.9 m/s</string>
+    <string name="planet_size_venus">Planet Diameter: 12,104 KM</string>
+    <!--星球信息之 jupiter-->
+    <string name="planet_name_jupiter">Planet Name: Jupiter</string>
+    <string name="planet_mess_jupiter">Planet Mess: 1898000 Yg</string>
+    <string name="planet_grav_jupiter">Planet Gravity: 23.1 m/s</string>
+    <string name="planet_size_jupiter">Planet Diameter: 132,984 KM</string>
+    <!--星球信息之 neptune-->
+    <string name="planet_name_neptune">Planet Name: Neptune</string>
+    <string name="planet_grav_neptune">Planet Gravity: 11.0 m/s</string>
+    <string name="planet_mess_neptune">Planet Mess: 10200 Yg</string>
+    <string name="planet_size_neptune">Planet Diameter: 49,528 KM</string>
+
+    <!--星球信息之 mars-->
+    <string name="planet_name_mars">Planet Name: Mars</string>
+    <string name="planet_grav_mars">Planet Gravity: 3.7 m/s</string>
+    <string name="planet_mess_mars">Planet Mess: 642 Yg</string>
+    <string name="planet_size_mars">Planet Diameter: 6,972 KM</string>
+
+    <!--布局名称-->
+    <string name="relative_layout">RelativeLayout</string>
+    <string name="grid_layout">GridLayout</string>
+    <string name="linear_layout">LinearLayout</string>
+    <string name="drawer_layout">DrawerLayout</string>
+
+    <!--数组-->
+    <string-array name="planets">
+        <item>Earth</item>
+        <item>Venues</item>
+        <item>Jupiter</item>
+        <item>Neptune</item>
+        <item>Mars</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
